@@ -1,0 +1,10 @@
+com\jasonanh\productservice\repository\ProductRepository.class
+com\jasonanh\productservice\model\Product.class
+com\jasonanh\productservice\model\Product$ProductBuilder.class
+com\jasonanh\productservice\ProductService.class
+com\jasonanh\productservice\controller\ProductController.class
+com\jasonanh\productservice\dto\ProductRequest.class
+com\jasonanh\productservice\dto\ProductResponse.class
+com\jasonanh\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\jasonanh\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\jasonanh\productservice\ProductServiceApplication.class

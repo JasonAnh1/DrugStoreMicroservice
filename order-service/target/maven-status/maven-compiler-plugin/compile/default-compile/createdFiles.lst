@@ -1,0 +1,12 @@
+com\jasonanh\orderservice\model\Order.class
+com\jasonanh\orderservice\dto\InventoryResponse.class
+com\jasonanh\orderservice\dto\OrderRequest.class
+com\jasonanh\orderservice\dto\OrderLineItemsDto.class
+com\jasonanh\orderservice\OrderServiceApplication.class
+com\jasonanh\orderservice\repository\OrderRepository.class
+com\jasonanh\orderservice\controller\OrderController.class
+com\jasonanh\orderservice\model\OrderLineItems.class
+com\jasonanh\orderservice\event\OrderPlaceEvent.class
+com\jasonanh\orderservice\config\WebClientConfig.class
+com\jasonanh\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\jasonanh\orderservice\service\OrderService.class
