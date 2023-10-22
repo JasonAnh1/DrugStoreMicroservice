@@ -11,7 +11,7 @@ public class WebClientConfig {
     @Bean
     @LoadBalanced
     public WebClient.Builder webClientBuilder(){
-        // tu dong tao can bang tai, tu dong tim service
+
         return WebClient.builder();
     }
 }

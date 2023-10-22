@@ -19,5 +19,6 @@ public class Inventory {
     private Long id;
     private String skuCode;
     private Integer quantity;
-
+    private Long price;
+    private PackType packType;
 }

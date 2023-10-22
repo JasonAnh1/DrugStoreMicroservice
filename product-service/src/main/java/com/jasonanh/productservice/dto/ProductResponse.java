@@ -1,5 +1,7 @@
 package com.jasonanh.productservice.dto;
 
+import com.jasonanh.productservice.model.DiseaseType;
+import com.jasonanh.productservice.model.DrugType;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -16,4 +18,8 @@ public class ProductResponse {
     private String name;
     private String description;
     private BigDecimal price;
+    private String imgUrl;
+    private String skuCode;
+    private DrugType drugType;
+    private DiseaseType diseaseType;
 }
